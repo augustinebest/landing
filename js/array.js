@@ -84,3 +84,12 @@ console.log(removeBook(9021));
 // Update a book in the library
 
 function updateBook() {} // update a book in the library
+
+// Borrow a Book
+
+
+// function
+// loop
+// Data types
+// Object, Array, array methods
+// Local storage, session storage
